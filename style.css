@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.albForms {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.card-title {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.card {
+    max-width: 200px;
+    margin: 0 auto;
+    border: 2px solid forestgreen;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
